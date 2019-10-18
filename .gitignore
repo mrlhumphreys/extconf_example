@@ -1,0 +1,5 @@
+Makefile
+extconf.h
+*.bundle
+*.o
+*.log
